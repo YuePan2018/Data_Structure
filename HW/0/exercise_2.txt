@@ -1,0 +1,3 @@
+//一个文件只能有一个public class,且与文件名一致,是为公共接口;	如果一个文件有多个类（非public）,则会生成多个.class 文件
+int ArrayLength = numbers.length;	//length 是int[] 自带的的class method
+//不需要声明函数。因为MAx是static，所以也不要instantiate
