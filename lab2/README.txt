@@ -1,1 +1,0 @@
-IntList debug and test£º method of catenate and square; method of Destructive and Non-destructive
